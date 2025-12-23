@@ -1,0 +1,8 @@
+{
+  "name": "E-Learning SMK LPPMRI 2 KEDUNGREJA",
+  "description": "Platform e-learning komprehensif untuk SMK LPPMRI 2 KEDUNGREJA dengan dashboard berbasis peran, integrasi Firebase, dan tutor bimbingan AI Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
